@@ -60,8 +60,3 @@ Before you begin, ensure you have met the following requirements:
 
 - Ensure that the path to your CSV file is correct and that it is not a directory.
 - If you encounter Java-related errors, ensure that Java is installed and properly configured in your system's PATH.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
